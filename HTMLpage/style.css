@@ -1,0 +1,55 @@
+header {
+    margin: auto;
+    background-color: black;
+    color: grey;
+    display: flex;
+    flex-flow: column nowrap;
+    align-content: center;
+    text-align: center;
+    
+}
+
+body {
+    background-color: black;
+    color: grey;
+
+}
+
+.flex {
+    display:flex;
+    flex-flow: column nowrap;
+}
+
+.nav {  
+    margin: auto;
+    border-style: groove;
+    border-color: black;border-collapse: collapse;
+    border-width: 2px;
+    padding: 2px;
+
+
+}
+
+
+
+.gif-embed {
+    margin-left: auto;
+    margin-right: auto;
+    width: 125px;
+    height: 125px;
+}
+
+.album {
+    border-style: dashed;
+    border-color: red;
+    border-radius: 2px;
+
+}
+
+table,tr,td {
+    border: solid 3px white;
+    border-collapse: collapse;
+    border-style: solid;
+    padding: 2px;
+
+}
